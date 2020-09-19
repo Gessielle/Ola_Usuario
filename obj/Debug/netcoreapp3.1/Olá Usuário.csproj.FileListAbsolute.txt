@@ -1,0 +1,13 @@
+C:\Users\POSITIVO\Desktop\PC1\Olá Usuário\obj\Debug\netcoreapp3.1\Olá Usuário.csprojAssemblyReference.cache
+C:\Users\POSITIVO\Desktop\PC1\Olá Usuário\obj\Debug\netcoreapp3.1\Olá Usuário.AssemblyInfoInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Olá Usuário\obj\Debug\netcoreapp3.1\Olá Usuário.AssemblyInfo.cs
+C:\Users\POSITIVO\Desktop\PC1\Olá Usuário\obj\Debug\netcoreapp3.1\Olá Usuário.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Olá Usuário\bin\Debug\netcoreapp3.1\Olá Usuário.exe
+C:\Users\POSITIVO\Desktop\PC1\Olá Usuário\bin\Debug\netcoreapp3.1\Olá Usuário.deps.json
+C:\Users\POSITIVO\Desktop\PC1\Olá Usuário\bin\Debug\netcoreapp3.1\Olá Usuário.runtimeconfig.json
+C:\Users\POSITIVO\Desktop\PC1\Olá Usuário\bin\Debug\netcoreapp3.1\Olá Usuário.runtimeconfig.dev.json
+C:\Users\POSITIVO\Desktop\PC1\Olá Usuário\bin\Debug\netcoreapp3.1\Olá Usuário.dll
+C:\Users\POSITIVO\Desktop\PC1\Olá Usuário\bin\Debug\netcoreapp3.1\Olá Usuário.pdb
+C:\Users\POSITIVO\Desktop\PC1\Olá Usuário\obj\Debug\netcoreapp3.1\Olá Usuário.dll
+C:\Users\POSITIVO\Desktop\PC1\Olá Usuário\obj\Debug\netcoreapp3.1\Olá Usuário.pdb
+C:\Users\POSITIVO\Desktop\PC1\Olá Usuário\obj\Debug\netcoreapp3.1\Olá Usuário.genruntimeconfig.cache
